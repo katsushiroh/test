@@ -1,3 +1,4 @@
 fn main(){
-	println!("Hello World!");
+	let x:i32 = 2020;
+	println!("Hello World! {}",x);
 }
